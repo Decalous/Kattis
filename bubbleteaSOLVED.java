@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class bubbletea {
+public class bubbleteaSOLVED {
 
     public static void main(String[] args) {
 
