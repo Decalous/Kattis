@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class zanzibar {
+public class zanzibarSOLVED {
 
     public static void main(String[] args) {
 
