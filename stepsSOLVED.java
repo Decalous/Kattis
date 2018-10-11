@@ -1,4 +1,4 @@
-
+// practice example of dynamic programming
 public class stepsSOLVED {
 
     public static void main(String[] args){
