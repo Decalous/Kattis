@@ -1,5 +1,5 @@
 
-public class steps {
+public class stepsSOLVED {
 
     public static void main(String[] args){
         int stair = 4;
