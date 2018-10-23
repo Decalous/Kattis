@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class Robber {
+public class RobberSOLVED {
 
     public static void main(String[] args){
         int[] houseVal = {6, 7, 1, 3, 8 , 2, 4};
