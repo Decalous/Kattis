@@ -1,4 +1,4 @@
-public class tiling {
+public class tilingSOLVED {
 
     public static void main(String[] args){
         System.out.println(tile(3));
