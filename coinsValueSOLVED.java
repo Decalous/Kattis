@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class coinsValue {
+public class coinsValueSOLVED {
 
     public static void main(String[] args){
         int[] coinVal = {25, 10, 5};
