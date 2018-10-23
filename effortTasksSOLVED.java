@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class effortTasks {
+public class effortTasksSOLVED {
 
     public static void main(String[] args){
         // int days = 5; not used
