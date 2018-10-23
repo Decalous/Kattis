@@ -1,4 +1,4 @@
-public class NewCoins {
+public class NewCoinsSOLVED {
 
     public static void main(String[] args){
         // x and y are amounts of coins you can take away, you can also take 1
